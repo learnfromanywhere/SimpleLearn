@@ -11,4 +11,4 @@ This method saves the time of students and can learn from any experts.
  * Save time and easily fit lessons into their schedule
 
 # Contributors 
-Nandhini Madan 
+Nandhini Madan Enas Elmahdwi
