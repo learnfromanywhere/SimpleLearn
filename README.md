@@ -1,10 +1,16 @@
 # SimpleLearn
 
-What is SimpleLearn?
-Learn from anywhere from a top rated professionals
+# What is SimpleLearn?
+Learn from anywhere from a top rated experts
 
-What problem does this solve?
-This solves the issue of learning even from a rural area. 
+# What problem does this solve?
+This method saves the time of students and can learn from any experts. 
 
-Contributors 
-Nandhini Madan 
+# How it works?
+ * Students can meet with the expert of their choice, anywhere in the country, online or in-person
+ * Save time and easily fit lessons into their schedule
+
+# Libraries Used
+
+# Contributors 
+Nandhini Madan Enas Elmahdwi
