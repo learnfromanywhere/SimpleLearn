@@ -6,7 +6,7 @@ Simple Learn is a website that connects people who want to learn music, language
 	1. People who want to learn new skills or hobby.
 	2. Parents who want to find a tutor for their children
 	3. Students who need help with school subjects or test preparation.
-  4. Adults who want to learn a new language.
+	4. Adults who want to learn a new language.
  
 # Contributors 
 Nandhini Madan Enas Elmahdwi
