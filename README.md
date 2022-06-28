@@ -1,16 +1,12 @@
-# SimpleLearn
-
 # What is SimpleLearn?
-Learn from anywhere from a top rated experts
-
+Simple Learn is a website that connects people who want to learn music, language, or academic subjects with teachers. You can take classes from anywhere.
 # What problem does this solve?
-This method saves the time of students and can learn from any experts. 
-
-# How it works?
- * Students can meet with the expert of their choice, anywhere in the country, online or in-person
- * Save time and easily fit lessons into their schedule
-
-# Libraries Used
-
+ It offers online class so people from anywhere from the world can access it.
+# Who are the target audiences of this product?
+	1. People who want to learn new skills or hobby.
+	2. Parents who want to find a tutor for their children
+	3. Students who need help with school subjects or test preparation.
+  4. Adults who want to learn a new language.
+ 
 # Contributors 
 Nandhini Madan Enas Elmahdwi
